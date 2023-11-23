@@ -1,0 +1,36 @@
+.social-login-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.btnss  {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    /* border-radius: 20px; */
+    /* padding: 10px; */
+
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button img {
+    width: 30px;
+    margin-left: 10px;
+    /* margin-right: 10px; */
+}
+p {
+    color:black;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    line-height: 2;
+    /* margin-bottom: 20px; */
+  }
